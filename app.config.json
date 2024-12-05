@@ -2,9 +2,9 @@
   "environmentUrl": "https://xle26845.sprint.apps.dynatracelabs.com/",
   "app": {
     "name": "openapi-to-bizevents",
-    "version": "0.0.0",
-    "description": "A starting project with routing, fetching data, and charting",
+    "version": "0.0.1",
+    "description": "A simple tool to coonvert OpenAPI specs into BizEvent Ingest Rules",
     "id": "my.openapi.to.bizevents",
-    "scopes": [{ "name": "storage:logs:read", "comment": "default template" }, { "name": "storage:buckets:read", "comment": "default template" }]
+    "scopes": [{"name": "document:documents:read", "comment": "Read YAML files from document service"}, {"name": "document:documents:write", "comment": "Write YAML files to document service"}]
   }
 }

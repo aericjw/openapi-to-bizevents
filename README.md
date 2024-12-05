@@ -1,4 +1,4 @@
-# Getting Started with your Dynatrace App
+# Getting Started with OpenApi To BizEvents
 
 This project was bootstrapped with Dynatrace App Toolkit.
 
